@@ -33,7 +33,7 @@ Desenvolvido com **Next.js 14+, Tailwind CSS, TypeScript** e integração com a 
 ## 🗂️ Estrutura do Projeto
 
 ````text
-desafio-front-end/
+alnicks-moment-insta/
 ├── public/
 │   ├── file.svg
 │   ├── globe.svg
@@ -59,8 +59,8 @@ desafio-front-end/
 ### Instalação
 
 ```bash
-git clone https://github.com/ThatianaMattos/desafio-front-end.git
-cd desafio-front-end
+git clone https://github.com/ThatianaMattos/alnicks-moments-insta.git
+cd alnicks-moments-insta
 
 # Crie um arquivo .env.local na raiz do projeto e adicione:
 NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=sua_chave_aqui
@@ -84,7 +84,7 @@ Acesse: http://localhost:3000
 ## 🚀 Deploy
 
 Projeto disponível em produção:
-👉 [Clique aqui para acessar a aplicação!](https://desafio-front-end-seven.vercel.app)
+👉 [Clique aqui para acessar a aplicação!](https://alnicks-moments-insta.vercel.app)
 
 
 
